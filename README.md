@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Karan Rana 
+# 💫 Hi 👋, I'm Karan Rana
 - 👀 I’m interested in learing new things
 - 🌱 I’m currently learning Web devlopment and Dsa with Java currently
 - 💞️ I’m looking to collaborate on anything that will build my logic making strategies
