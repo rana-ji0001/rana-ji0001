@@ -5,6 +5,7 @@
 - 📫 You can reach me through my phone no. which is 9053655484
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am building my skills to write them here
+![gif](https://github.com/user-attachments/assets/451e0a60-c923-4503-a7d0-97a7bc54031b)
 
 <!---
 rana-ji0001/rana-ji0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
