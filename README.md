@@ -7,7 +7,8 @@
 - ⚡ Fun fact: I am building my skills to write them here
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ee8f6fb-3a8c-4069-ad97-c89243de6da0" />
+![gif2](https://github.com/user-attachments/assets/e56f03f8-422c-4d48-b899-d27f490731e8)
+
 
 
 <!---
