@@ -1,9 +1,8 @@
 # 💫 Hi 👋, I'm Karan Rana
 - 👀 I’m interested in learing new things
-- 🌱 I’m currently learning Web devlopment and Dsa with Java currently
+- 🌱 I’m currently learning Web devlopment and Dsa with Java
 - 💞️ I’m looking to collaborate on anything that will build my logic making strategies
 - 📫 You can reach me through my phone no. which is 9053655484
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I am building my skills to write them here
 
 
@@ -19,9 +18,9 @@
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 
 # 💻 Tech Stack:
